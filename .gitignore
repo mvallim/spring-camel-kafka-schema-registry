@@ -1,3 +1,15 @@
+.attach*
+target/
+
+.project
+.classpath
+.settings/
+
+build/
+.idea/
+.sts4-cache/
+.vscode/
+*.iml
 # Compiled class file
 *.class
 
