@@ -2,6 +2,12 @@
 
 How to integrate Spring-Boot + Camel + Kafka + Schema Registry
 
+## Running
+
+```bash
+mvn clean compile spring-boot:run -Dspring.profiles.active=LOCAL
+```
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
